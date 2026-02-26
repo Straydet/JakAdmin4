@@ -498,9 +498,9 @@ Ranveer, Harvey, Ultraz Samp_India, Ashirwad, Sonic, Adham, MaxFranky
 **Version 4.0 (01/01/18)**  
 **Fixed Files**  
 
-[Download](https//)
+[Download](https://github.com/Straydet/JakAdmin4/releases/tag/4.0)
 
 ## Original
 
-- [[FilterScript] JakAdmin | 100 available commands | SQLITE YINI | Rich in features - SA-MP Forum Filterscripts](https://filterscripts1.rssing.com/chan-64791385/article322-live.html)
+- [[FilterScript] JakAdmin | 100 available commands | SQLITE YINI | Rich in features - SA-MP Forum Filterscripts](https://filterscripts1.rssing.com/chan-64791385/all_p17.html)
 - [Download - Original](https://www.mediafire.com/file/v3rrd6ogftb9m2m/JakAdmin4.rar)
